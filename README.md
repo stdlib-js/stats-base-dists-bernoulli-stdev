@@ -69,7 +69,7 @@ where `p` is the success probability.
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-stdev@v0.2.0-esm/index.mjs';
 ```
 
 #### stdev( p )
@@ -125,7 +125,7 @@ v = stdev( -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-stdev@v0.2.0-esm/index.mjs';
 
 var v;
 var i;
