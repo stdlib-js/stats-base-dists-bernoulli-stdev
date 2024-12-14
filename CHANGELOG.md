@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-14)
+
+<section class="features">
+
+### Features
+
+-   [`3704e0c`](https://github.com/stdlib-js/stdlib/commit/3704e0cc1ae8e4f548ba2b1381e74ea7e8f042fd) - add C implementation for `@stdlib/stats-base/dists/bernoulli/stdev` [(#3683)](https://github.com/stdlib-js/stdlib/pull/3683)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3421](https://github.com/stdlib-js/stdlib/issues/3421)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3704e0c`](https://github.com/stdlib-js/stdlib/commit/3704e0cc1ae8e4f548ba2b1381e74ea7e8f042fd) - **feat:** add C implementation for `@stdlib/stats-base/dists/bernoulli/stdev` [(#3683)](https://github.com/stdlib-js/stdlib/pull/3683) _(by Vivek maurya, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vivek maurya
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
