@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-15)
+## Unreleased (2025-01-13)
 
 <section class="features">
 
@@ -37,7 +37,7 @@ This release closes the following issue:
 -   [`0e887d5`](https://github.com/stdlib-js/stdlib/commit/0e887d567344c8a31a382266389022ec26f2bcca) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
 -   [`0756fb5`](https://github.com/stdlib-js/stdlib/commit/0756fb583ae0061031335704fdc46805f408f9c9) - **style:** remove empty lines _(by Philipp Burckhardt)_
--   [`3704e0c`](https://github.com/stdlib-js/stdlib/commit/3704e0cc1ae8e4f548ba2b1381e74ea7e8f042fd) - **feat:** add C implementation for `@stdlib/stats-base/dists/bernoulli/stdev` [(#3683)](https://github.com/stdlib-js/stdlib/pull/3683) _(by Vivek maurya, Philipp Burckhardt)_
+-   [`3704e0c`](https://github.com/stdlib-js/stdlib/commit/3704e0cc1ae8e4f548ba2b1381e74ea7e8f042fd) - **feat:** add C implementation for `@stdlib/stats-base/dists/bernoulli/stdev` [(#3683)](https://github.com/stdlib-js/stdlib/pull/3683) _(by Vivek Maurya, Philipp Burckhardt)_
 
 </details>
 
@@ -52,7 +52,7 @@ This release closes the following issue:
 A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
--   Vivek maurya
+-   Vivek Maurya
 
 </section>
 
