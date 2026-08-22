@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-07)
+## Unreleased (2026-08-22)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f70a85c`](https://github.com/stdlib-js/stdlib/commit/f70a85c8245a8e3ca65e7e8d649b37f5f050e013) - **test:** migrate `stats/base/dists/bernoulli/stdev` to ULP-based assertions [(#14522)](https://github.com/stdlib-js/stdlib/pull/14522) _(by Philipp Burckhardt)_
 -   [`49457c5`](https://github.com/stdlib-js/stdlib/commit/49457c5f87af9314c351e9af55b471e3f8d3422c) - **refactor:** reuse variance in `stats/base/dists/bernoulli/stdev` [(#11366)](https://github.com/stdlib-js/stdlib/pull/11366) _(by Om-A-osc)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Om-A-osc
+-   Philipp Burckhardt
 
 </section>
 
